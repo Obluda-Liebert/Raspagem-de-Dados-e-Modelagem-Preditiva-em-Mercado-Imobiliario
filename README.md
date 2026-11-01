@@ -18,6 +18,6 @@ Projeto desenvolvido para coletar, analisar e modelar o preço de aluguel de apa
 ## Resultados do Modelo Preditivo
 | Modelo | R² | RMSE | MAE |
 | :--- | :---: | :---: | :---: |
-| Regressão Linear Simples | 0.XX | R$ XX | R$ XX |
-| Regressão Ridge | 0.XX | R$ XX | R$ XX |
-| Regressão Lasso | 0.XX | R$ XX | R$ XX |
+| Regressão Linear Múltipla | 0,79 | R$ 1468,14 | R$ 997,39 |
+| Regressão Ridge | 0,78 | R$ 1514,72 | R$ 1047,25 |
+| Regressão Lasso | 0,79 | R$ 1629,37 | R$ 887,50 |
